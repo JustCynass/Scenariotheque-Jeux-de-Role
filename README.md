@@ -4,6 +4,8 @@ Ce projet regroupe l'ensemble des scénarios, diverses aides de jeu, personnages
 
 Attention, les scénarios n'ont pas toujours la qualité de rédaction attendu pour être publiés.
 
+PS : Il y a uniquement des Aides de jeu ainsi que Scénario, aucun livre officiel d'un JDR ne serais mis ici (Volume trop grand)
+
 # Scénarios
 
 La majorité des scénarios est conçue pour être des parties de 5 à 6 heures.
