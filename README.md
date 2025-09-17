@@ -10,3 +10,10 @@ PS : Il y a uniquement des Aides de jeu ainsi que Scénario, aucun livre officie
 
 La majorité des scénarios est conçue pour être des parties de 5 à 6 heures.
 Certains scénarios sont cependant au format court (1h30 - 2h).
+
+# Site Web pour trouvé des scénarios
+- https://fr.scribd.com (Bypass les téléchargement grâce a https://scribd.vdownloaders.com)
+- https://www.scenariotheque.org
+- https://www.rolis.net/catalogue
+- https://www.naheulbeuk.com
+- Reddit
