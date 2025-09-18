@@ -1,0 +1,3 @@
+CR01 Centre d'Essai 3188 était une aventure de test que j'ai écrit dans les premiers temps de Cthulhu Rising, que je testais encore les règles de combat. L'aventure est courte, et très simple : aller du point A au point B : tuer tout ce qui se trouve sur le passage.
+
+Les créatures sont basées sur celles que l'on peut trouver dans les jeux Quake et Doom. S'il y a des omissions ou des erreurs, elles devraient être mineures et ne pas géner. Cette aventure est présentée 'telle quelle' et il n'y aura pas de révisions.
