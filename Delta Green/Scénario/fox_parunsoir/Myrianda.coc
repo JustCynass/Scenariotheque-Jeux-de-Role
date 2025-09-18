@@ -1,0 +1,730 @@
+COC
+Sheet { 
+	"Script" "Delta Green"
+	"Class" "Investigator"
+}
+
+Investigator { 
+	"Name" "Myrandia"
+	"Occupation" "Géologue"
+	"Birthplace" "Chicago"
+	"Colleges" "Doctorat"
+	"MentalDisorders" "Nécrophobie (mort)"
+	"Sex" "F"
+	"Age" "33"
+	"Era" "2"
+	"Portrait" ""
+	"APP" "14"
+	"CON" "7"
+	"DEX" "12"
+	"EDU" "18"
+	"INT" "14"
+	"POU" "8"
+	"TAI" "15"
+	"FOR" "9"
+	"Player" ""
+	"SAN" "20"
+	"PV" "11"
+	"Magic" "8"
+	"Affiliation" ""
+	"CodeName" ""
+	"CurrentDate" ""
+	"Insanities" "suicidaire"
+	"ExtraSchooling" "0"
+	"Income" "$15000"
+	"Spells" ""
+	"RuleFile" "Delta Green.rul"
+	"Residence" ""
+	"PersonalDescription" ""
+	"Contacts" ""
+	"Wounds" ""
+	"Scars" ""
+	"History" ""
+	"CashOnHand" ""
+	"Savings" ""
+	"PersonalProperty" ""
+	"RealEstate" ""
+	"Posessions" ""
+	"TomesRead" ""
+	"Artifacts" ""
+	"EntitiesEncountered" ""
+	"SkillPoints" "360"
+	"InterestPoints" "140"
+	Skills {
+		Melee { 
+			"Name" "****Poing"
+			"Base" "50"
+			"Attacks" "1"
+			"Dmg" "1D3+bd"
+			"PV" "-"
+			"Current" "50"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Melee { 
+			"Name" "***Tête"
+			"Base" "10"
+			"Attacks" "1"
+			"Dmg" "1D4+bd"
+			"PV" "-"
+			"Current" "10"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Melee { 
+			"Name" "**Pied"
+			"Base" "25"
+			"Attacks" "1"
+			"Dmg" "1D6+bd"
+			"PV" "-"
+			"Current" "25"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Anthropologie"
+			"Base" "0"
+			"Current" "0"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Architecture"
+			"Base" "0"
+			"Current" "0"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Archéologie"
+			"Base" "0"
+			"Current" "0"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Armes de poing"
+			"Base" "F20"
+			"Current" "20"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		SpecialSkill { 
+			"Name" "*Art"
+			"Base" "5"
+			"SubSkills" "1"
+			SubSkill { 
+					"Name" ""
+					"Base" "5"
+					"Current" "5"
+					"Occupational" "0"
+					"Checked" "0"
+			}
+			"Current" "5"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Arts Martiaux"
+			"Base" "0"
+			"Current" "0"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Astronomie"
+			"Base" "0"
+			"Current" "0"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Baratin"
+			"Base" "5"
+			"Current" "5"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Bibliothèque"
+			"Base" "25"
+			"Current" "83"
+			"Occupational" "1"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Biologie"
+			"Base" "0"
+			"Current" "49"
+			"Occupational" "1"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Boating"
+			"Base" "10"
+			"Current" "10"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Botanique"
+			"Base" "0"
+			"Current" "0"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Cartographie"
+			"Base" "0"
+			"Current" "0"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Charpenterie"
+			"Base" "10"
+			"Current" "10"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Chimie"
+			"Base" "0"
+			"Current" "60"
+			"Occupational" "1"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Comptabilité"
+			"Base" "10"
+			"Current" "10"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Conduire Auto"
+			"Base" "20"
+			"Current" "45"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Conduire Engin Lourd"
+			"Base" "0"
+			"Current" "0"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Cryptographie"
+			"Base" "0"
+			"Current" "0"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Crédit"
+			"Base" "15"
+			"Current" "15"
+			"Occupational" "1"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Demolitions"
+			"Base" "0"
+			"Current" "0"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Discrétion"
+			"Base" "10"
+			"Current" "10"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Dissimulation"
+			"Base" "15"
+			"Current" "15"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Droit"
+			"Base" "5"
+			"Current" "5"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Déguisement"
+			"Base" "5"
+			"Current" "5"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Ecouter"
+			"Base" "25"
+			"Current" "25"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Electricité"
+			"Base" "10"
+			"Current" "10"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Electronique"
+			"Base" "0"
+			"Current" "0"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Esquive"
+			"Base" "^DEX2"
+			"Current" "24"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Forensics"
+			"Base" "0"
+			"Current" "0"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Forgery"
+			"Base" "0"
+			"Current" "0"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Fusil"
+			"Base" "F25"
+			"Current" "25"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Fusil de chasse"
+			"Base" "F30"
+			"Current" "30"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Grimper"
+			"Base" "40"
+			"Current" "40"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Géologie"
+			"Base" "0"
+			"Current" "19"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Histoire"
+			"Base" "20"
+			"Current" "20"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Histoire Naturelle"
+			"Base" "10"
+			"Current" "70"
+			"Occupational" "1"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Hypnotisme"
+			"Base" "0"
+			"Current" "0"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Informatique"
+			"Base" "0"
+			"Current" "79"
+			"Occupational" "1"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Lancer"
+			"Base" "25"
+			"Current" "25"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		SpecialSkill { 
+			"Name" "*Langue Natale"
+			"Base" "^EDU5"
+			"SubSkills" "1"
+			SubSkill { 
+					"Name" ""
+					"Base" "^EDU5"
+					"Current" "90"
+					"Occupational" "0"
+					"Checked" "0"
+			}
+			"Current" "90"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		SpecialSkill { 
+			"Name" "*Langues Etrangères"
+			"Base" "0"
+			"SubSkills" "3"
+			SubSkill { 
+					"Name" "Français"
+					"Base" "0"
+					"Current" "30"
+					"Occupational" "0"
+					"Checked" "0"
+			}
+			SubSkill { 
+					"Name" ""
+					"Base" "0"
+					"Current" "0"
+					"Occupational" "0"
+					"Checked" "0"
+			}
+			SubSkill { 
+					"Name" ""
+					"Base" "0"
+					"Current" "0"
+					"Occupational" "0"
+					"Checked" "0"
+			}
+			"Current" "0"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Melee { 
+			"Name" "*Lutte"
+			"Base" "25"
+			"Attacks" "1"
+			"Dmg" "specaux"
+			"PV" "-"
+			"Current" "25"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Marchandage"
+			"Base" "5"
+			"Current" "5"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Mathématiques"
+			"Base" "10"
+			"Current" "60"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Military Science"
+			"Base" "0"
+			"Current" "0"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Mitraillette"
+			"Base" "F15"
+			"Current" "15"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Mitrailleuse"
+			"Base" "F15"
+			"Current" "15"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Monter à cheval"
+			"Base" "5"
+			"Current" "5"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Mythe de Cthulhu"
+			"Base" "*0"
+			"Current" "0"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Mécanique"
+			"Base" "20"
+			"Current" "20"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Médecine"
+			"Base" "5"
+			"Current" "12"
+			"Occupational" "1"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Nager"
+			"Base" "25"
+			"Current" "25"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Navigation/Land"
+			"Base" "10"
+			"Current" "10"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Navigation/Sea, Air"
+			"Base" "0"
+			"Current" "0"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Occultisme"
+			"Base" "5"
+			"Current" "5"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Parachutisme"
+			"Base" "0"
+			"Current" "0"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Persuasion"
+			"Base" "15"
+			"Current" "15"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Pharmacologie"
+			"Base" "0"
+			"Current" "45"
+			"Occupational" "1"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Photographie"
+			"Base" "10"
+			"Current" "10"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Physique"
+			"Base" "0"
+			"Current" "44"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		SpecialSkill { 
+			"Name" "*Piloter"
+			"Base" "0"
+			"SubSkills" "1"
+			SubSkill { 
+					"Name" ""
+					"Base" "0"
+					"Current" "0"
+					"Occupational" "0"
+					"Checked" "0"
+			}
+			"Current" "0"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Premiers Soins"
+			"Base" "30"
+			"Current" "55"
+			"Occupational" "1"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Psychanalyse"
+			"Base" "0"
+			"Current" "0"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Psychologie"
+			"Base" "5"
+			"Current" "40"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Sailing"
+			"Base" "0"
+			"Current" "0"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Sauter"
+			"Base" "25"
+			"Current" "25"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*SCUBA"
+			"Base" "0"
+			"Current" "0"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Se Cacher"
+			"Base" "10"
+			"Current" "10"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Serrurerie"
+			"Base" "0"
+			"Current" "0"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Suivre une piste"
+			"Base" "10"
+			"Current" "10"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Surgery"
+			"Base" "0"
+			"Current" "0"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Trouver Objet Caché"
+			"Base" "25"
+			"Current" "40"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+		Skill { 
+			"Name" "*Zoologie"
+			"Base" "0"
+			"Current" "30"
+			"Occupational" "0"
+			"Checked" "0"
+		}
+
+	}
+}
+
